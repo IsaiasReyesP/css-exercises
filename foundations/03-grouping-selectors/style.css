@@ -1,0 +1,13 @@
+.black-op,
+.yellow-op{
+    font-size:28px;font-family: "Helvetica","Times New Roman","sans-serif";
+
+}
+.black-op{
+    background-color: rgb(0, 0, 0);
+    color:rgb(247, 244, 244);
+    font-weight: 500;
+}
+.yellow-op{
+    background-color: rgb(246, 246, 20);
+}
